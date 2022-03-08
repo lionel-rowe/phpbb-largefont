@@ -1,0 +1,32 @@
+{
+	"name": "hifikabin/largefont",
+	"type": "phpbb-extension",
+	"description": "Allows the user to increase the font size up to ~400% of the default and/or make all the font bold. For phpBB 3.2.x and later only",
+	"homepage": "http://phpbb.hifikabin.me.uk",
+	"version": "3.2.4-RC2",
+	"license": "GPL-2.0-only",
+	"authors": [
+		{
+			"name": "James Newcombe",
+			"email": "webmaster@hifikabin.me.uk",
+			"homepage": "http://phpbb.hifikabin.me.uk",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.4"
+	},
+	"extra": {
+		"display-name": "Large Font",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.2.0"
+		},
+		"version-check": {
+			"host": "versioncheck.hifikabin.me.uk",
+			"directory": "/320",
+			"filename": "/font__versions.json"
+		}
+	}
+}
+
+
