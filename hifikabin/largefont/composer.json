@@ -3,7 +3,7 @@
 	"type": "phpbb-extension",
 	"description": "Allows the user to increase the font size up to ~400% of the default and/or make all the font bold. For phpBB 3.2.x and later only",
 	"homepage": "http://phpbb.hifikabin.me.uk",
-	"version": "3.2.4-RC2",
+	"version": "3.2.4-RC3-forked",
 	"license": "GPL-2.0-only",
 	"authors": [
 		{

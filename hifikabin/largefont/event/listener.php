@@ -38,7 +38,7 @@ class listener implements EventSubscriberInterface
 		$this->size_map = array(
 			101 => 105,
 			102 => 110,
-			103 => 115,
+			103 => 120,
 			104 => 130,
 			106 => 150,
 			110 => 200,
